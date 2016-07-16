@@ -1,0 +1,19 @@
+.input-text {
+  font-size: 16px;
+  height: 30px;
+  float: right;
+}
+#contents {
+  padding: 10px;
+}
+.radio_text {
+    cursor       : pointer;
+    position     : relative;
+	margin-right : 20px;
+	overflow     : hidden;
+}
+.section {
+	padding-left : 20px;
+	margin-bottom : 20px;
+	display: block;
+}

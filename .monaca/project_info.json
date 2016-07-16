@@ -9,5 +9,14 @@
     "external_plugins": [
         "cordova-plugin-whitelist@1.0.0",
         "cordova-plugin-splashscreen@2.1.0"
-    ]
+    ],
+    "title-ja": "あ",
+    "title-en": "",
+    "description-ja": "",
+    "description-en": "",
+    "category": "User Template",
+    "platform": [
+        "ios"
+    ],
+    "name": "generated-1463796923-573fbf10fd1734c5683c82c4"
 }
